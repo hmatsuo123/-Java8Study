@@ -6,11 +6,9 @@ import java.util.List;
 
 
 public class SubDirectories {
-	List<File> list = new ArrayList<File>();
-
-	public List<File> getSubDirectoriesLambda(File dir) {
-
-		File[] files = dir.listFiles(f -> f.isDirectory());
+	public List<File> getSubDirectoriesLambda(File file) {
+		List<File> list = new ArrayList<File>();
+		File[] files = file.listFiles(f -> f.isDirectory());
 		for (int i = 0; i < files.length; i++) {
 			list.add(files[i]);
 			getSubDirectoriesLambda(files[i]);
@@ -18,9 +16,9 @@ public class SubDirectories {
 		return list;
 	}
 
-	public List<File> getSubDirectoriesMethod(File dir) {
-
-		File[] files = dir.listFiles(File::isDirectory);
+	public List<File> getSubDirectoriesMethod(File file) {
+		List<File> list = new ArrayList<File>();
+		File[] files = file.listFiles(File::isDirectory);
 		for (int i = 0; i < files.length; i++) {
 			list.add(files[i]);
 			getSubDirectoriesMethod(files[i]);

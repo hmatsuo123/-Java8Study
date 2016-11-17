@@ -2,6 +2,7 @@ package ch01.ex06;
 
 public class UncheckRunnable {
 
+	@FunctionalInterface
     public interface RunnableEx {
         void run() throws Exception;
     }

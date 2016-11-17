@@ -36,10 +36,10 @@ public class ParallelForLoop {
 						thread.join();
 					} catch (InterruptedException e) {
 						System.err.println(e);
-					} finally {
-						// 最後の計算が終了したら合計値を返す
-						break;
 					}
+					// 最後の計算が終了したら合計値を返す
+					break;
+
 				}
 			} else {
 				int startIdx = segmentCount;
@@ -58,10 +58,9 @@ public class ParallelForLoop {
 					thread.join();
 				} catch (InterruptedException e) {
 					System.err.println(e);
-				} finally {
-					// 最後の計算が終了したら合計値を返す
-					break;
 				}
+				// 最後の計算が終了したら合計値を返す
+				break;
 			}
 		}
 

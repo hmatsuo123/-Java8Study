@@ -22,7 +22,8 @@ public class DirectoryComparetor {
 
 	public static void main(String[] args) {
 		File[] files = new File[]{
-				new File(".\\src\\ch01\\ex04"), new File(".\\src\\ch01\\ex02"), new File(".\\src\\ch01\\ex04\\DirectoryComparetor.java"), new File(".\\src\\ch01\\ex01")
+				new File("." + File.separator + "src" + File.separator + "ch01" + File.separator + "ex04"), new File("." + File.separator + "src" + File.separator + "ch01" + File.separator + "ex02"),
+				new File("." + File.separator + "src" + File.separator + "ch01" + File.separator + "ex04" + File.separator + "DirectoryComparetor.java"), new File("." + File.separator + "src" + File.separator + "ch01" + File.separator + "ex01")
 		};
 		System.out.println("Befor");
 		Arrays.asList(files).forEach(file -> {

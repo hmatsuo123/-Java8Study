@@ -12,15 +12,14 @@ public class SubDirectoriesTest {
 	@Test
 	public void testGetSubDirectoriesLambda() {
 		int count = 0;
-		String currentDir = new File(".").getAbsolutePath() + "\\test\\ch01\\ex02";
+		String currentDir = new File(".").getAbsolutePath() + File.separator + "test" + File.separator + "ch01" + File.separator + "ex02";
 		String test1Name = "test1";
-		String test1 = currentDir + "\\" + test1Name;
-		String test2 = currentDir + "\\test2";
-		String subTest1 = currentDir + "\\" + test1Name + "\\subTest1";
+		String test1 = currentDir + File.separator + test1Name;
+		String test2 = currentDir + File.separator + "test2";
+		String subTest1 = currentDir + File.separator + test1Name + File.separator + "subTest1";
 		new File(test1).mkdir();
 		new File(test2).mkdir();
 		new File(subTest1).mkdir();
-		SubDirectories subDirs = new SubDirectories();
 		List<File> list = new SubDirectories().getSubDirectoriesLambda(new File(currentDir));
 		for (File file : list) {
 			if (test1.equals(file.getAbsolutePath()) || test2.equals(file.getAbsolutePath()) || subTest1.equals(file.getAbsolutePath()))
@@ -32,15 +31,14 @@ public class SubDirectoriesTest {
 	@Test
 	public void testGetSubDirectoriesMethod() {
 		int count = 0;
-		String currentDir = new File(".").getAbsolutePath() + "\\test\\ch01\\ex02";
+		String currentDir = new File(".").getAbsolutePath() + File.separator + "test" + File.separator + "ch01" + File.separator + "ex02";
 		String test1Name = "test1";
-		String test1 = currentDir + "\\" + test1Name;
-		String test2 = currentDir + "\\test2";
-		String subTest1 = currentDir + "\\" + test1Name + "\\subTest1";
+		String test1 = currentDir + File.separator + test1Name;
+		String test2 = currentDir + File.separator + "test2";
+		String subTest1 = currentDir + File.separator + test1Name + File.separator + "subTest1";
 		new File(test1).mkdir();
 		new File(test2).mkdir();
 		new File(subTest1).mkdir();
-		SubDirectories subDirs = new SubDirectories();
 		List<File> list = new SubDirectories().getSubDirectoriesMethod(new File(currentDir));
 		for (File file : list) {
 			if (test1.equals(file.getAbsolutePath()) || test2.equals(file.getAbsolutePath()) || subTest1.equals(file.getAbsolutePath()))

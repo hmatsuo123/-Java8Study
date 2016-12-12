@@ -11,7 +11,8 @@ public class SubDirectories {
 		File[] files = file.listFiles(f -> f.isDirectory());
 		for (int i = 0; i < files.length; i++) {
 			list.add(files[i]);
-			getSubDirectoriesLambda(files[i]);
+			List<File> tmpList = getSubDirectoriesLambda(files[i]);
+			tmpList.forEach(f -> list.add(f));
 		}
 		return list;
 	}
@@ -21,13 +22,14 @@ public class SubDirectories {
 		File[] files = file.listFiles(File::isDirectory);
 		for (int i = 0; i < files.length; i++) {
 			list.add(files[i]);
-			getSubDirectoriesMethod(files[i]);
+			List<File> tmpList = getSubDirectoriesMethod(files[i]);
+			tmpList.forEach(f -> list.add(f));
 		}
 		return list;
 	}
 
 	public static void main(String[] args) {
-		File dir = new File(".\\src\\ch01");
+		File dir = new File("." + File.separator + "src" + File.separator + "ch01");
 		List<File> list = new SubDirectories().getSubDirectoriesMethod(dir);
 		for (File file : list) {
 			System.out.println(file);

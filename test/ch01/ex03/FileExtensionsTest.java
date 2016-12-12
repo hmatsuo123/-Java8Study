@@ -2,6 +2,7 @@ package ch01.ex03;
 
 import static org.junit.Assert.*;
 
+import java.io.File;
 import java.util.List;
 
 import org.junit.Test;
@@ -26,7 +27,7 @@ public class FileExtensionsTest {
 
 	@Test
 	public void testGetFileListByExtension() {
-		List<String> list = new FileExtensions().getFileListByExtension(".\\test\\ch01\\ex03\\test", ".txt");
+		List<String> list = new FileExtensions().getFileListByExtension("." + File.separator + "test" + File.separator + "ch01" + File.separator + "ex03" + File.separator + "test", ".txt");
 		assertEquals(2, list.size());
 	}
 

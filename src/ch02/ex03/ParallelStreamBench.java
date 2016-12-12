@@ -1,5 +1,6 @@
 package ch02.ex03;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -37,7 +38,7 @@ public class ParallelStreamBench {
 	}
 
 	public static void main(String[] args) {
-		ParallelStreamBench psb = new ParallelStreamBench(".\\src\\ch02\\ex03\\WarAndPeace.txt");
+		ParallelStreamBench psb = new ParallelStreamBench("." + File.separator + "src" + File.separator + "ch02" + File.separator + "ex03" + File.separator + "WarAndPeace.txt");
 		psb.getLongWordCountBench();
 		psb.getLongWordCountParallelBench();
 	}

@@ -12,7 +12,10 @@ public class DirectoryComparetorTest {
 	@Test
 	public void testDirCompare() {
 		File[] files = new File[]{
-				new File(".\\test\\ch01\\ex04\\test\\dir2"), new File(".\\test\\ch01\\ex04\\test\\file2"), new File(".\\test\\ch01\\ex04\\test\\dir1"), new File(".\\test\\ch01\\ex04\\test\\file1")
+				new File("." + File.separator + "test" + File.separator + "ch01" + File.separator + "ex04" + File.separator + "test" + File.separator + "dir2"),
+				new File("." + File.separator + "test" + File.separator + "ch01" + File.separator + "ex04" + File.separator + "test" + File.separator + "file2"),
+				new File("." + File.separator + "test" + File.separator + "ch01" + File.separator + "ex04" + File.separator + "test" + File.separator + "dir1"),
+				new File("." + File.separator + "test" + File.separator + "ch01" + File.separator + "ex04" + File.separator + "test" + File.separator + "file1")
 		};
 		List<File> fileList = new DirectoryComparetor().dirCompare(files);
 		assertEquals("dir1", fileList.get(0).getName());

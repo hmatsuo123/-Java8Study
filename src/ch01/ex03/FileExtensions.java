@@ -26,7 +26,7 @@ public class FileExtensions {
 	}
 
 	public static void main(String[] args) {
-		List<String> list = new FileExtensions().getFileListByExtension(".\\src\\ch01\\ex03", ".java");
+		List<String> list = new FileExtensions().getFileListByExtension("." + File.separator + "src" + File.separator + "ch01" + File.separator + "ex03", ".java");
 		list.forEach(System.out::println);
 	}
 }

@@ -23,12 +23,12 @@ public class AverageCalculator {
 			count.getAndIncrement();
 			return a + b;
 		});
-		System.out.printf("%f / %d = %f", sum, count, sum / count.get());
+		System.out.printf("%f / %d = %f", sum, count.get(), sum / count.get());
 		return sum / count.get();
 	}
 
 	public static void main(String[] args) {
 		Stream<Double> stream = IntStream.rangeClosed(0, 10).asDoubleStream().boxed();
-		double result = new AverageCalculator().caluculateAverage(stream);
+		double result = new AverageCalculator().caluculateAverage2(stream);
 	}
 }

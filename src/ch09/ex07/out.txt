@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<meta charset="utf-8" />
+<title>ホーム | リコー</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="copyright" content="Copyright Ricoh Company, Ltd. / RICOH JAPAN Corporation" />
+<meta name="Keywords" content="MFP,プリンター,ソリューション,ペンタックス,PENTAX,ドキュメント,MDS,プロダクションプリンティング,環境" />
+<meta name="Description" content="【リコー公式サイト】リコーの提供するソリューション、商品、サービスをご紹介します。" />
+<meta property="og:title" content="ホーム | リコー" />
+<meta property="og:image" content="http://www.ricoh.co.jp/cmn_jp_v1/og/og-image.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="【リコー公式サイト】リコーの提供するソリューション、商品、サービスをご紹介します。" />
+<meta property="og:url" content="index.html" />
+<meta property="og:site_name" content="リコー ホーム" />
+<meta property="og:country-name" content="japan" />
+<!-- //////////ssi css_js//////////// -->
+<link rel="icon" type="image/vnd.microsoft.icon" href="/cmn_v1/img/favicon.ico" />
+<link rel="apple-touch-icon" href="/cmn_v1/img/apple_icon.png" />
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_v1/css/import.css" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_v1/css/old_ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_jp_v1/css/import.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_v1/lib/responsiveTabs/jquery.responsiveTabs.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_v1/lib/uniform/jquery.uniform.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_v1/lib/bxslider/jquery.bxslider.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/cmn_v1/css/print.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/cmn_jp_v1/css/import-module2015-chase.css" />
+<script src="/cmn_v1/lib/jquery.min.js"></script>
+<script src="/cmn_v1/lib/jquery.tile.js"></script>
+<script src="/cmn_v1/lib/jquery.responsiveTabs.js"></script>
+<!--[if !IE 7]><!-->
+<script src="/cmn_v1/lib/jquery.uniform.js"></script>
+<!--<![endif]-->
+<script src="/cmn_v1/lib/jquery.bxslider.min.js"></script>
+<script src="/cmn_v1/js/globalnavi.js"></script>
+<script src="/cmn_v1/js/common.js"></script>
+<script src="/cmn_jp_v1/js/velocity.min.js"></script>
+<script src="/cmn_jp_v1/js/fs_ricoh.js"></script>
+<script src="/cmn_jp_v1/js/smallImage.js"></script>
+<script src="/cmn_jp_v1/js/module2015-chase-module.js"></script>
+<!-- ///////// /ssi css_js//////////// -->
+<!--style-->
+<link rel="stylesheet" type="text/css" media="all" href="cmn_jp_v1/css/index.css" />
+<link rel="stylesheet" type="text/css" media="all" href="cmn_jp_v1/css/jquery.jscrollpane.css" />
+<link rel="canonical" href="http://www.ricoh.co.jp/">
+<!--/style-->
+<!--script-->
+<script src="/cmn_jp_v1/js/_a_cast.js"></script>
+<!--/script-->
+</head>
+<body class="page-home">
+<!--Facebook Timeline Start-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&appId=398009333706000&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--Facebook Timeline End-->
+<div id="wrapper">
+  <noscript>
+  <div class="noscript">このページを正しく表示するには <span>JavaScriptを有効にしてください。</span><br />
+    JavaScriptが無効の場合、ページのレイアウトやリンクが機能しないことがあります。</div>
+  </noscript>
+  <a href="#contents" class="hide">Skip to main content</a> <a href="#gl_nv" class="hide">Skip to first level navigation</a>
+  <div id="gl_header">
+    <!-- //////////ssi header//////////// -->
+<span class="hide">言語切替メニュー </span>
+<div class="gl_hd">
+<div class="inner">
+<p class="hd_lg"><a href="/">RICOH imagine. change.</a></p>
+<div class="hd_ut">
+<span class="hd_ut_country">日本 - ソリューション&#12539;商品サイト</span>
+<a href="http://www.ricoh.com/gateway/" target="_blank" class="hd_ut_change">Change</a>
+<!--/hd_ut--></div>
+<!--/inner--></div>
+<!--/gl_hd--></div>
+
+<a href="#contents" class="hide">このページの本文へ</a>
+<span class="hide">ここからこのサイトのメインメニュー</span>
+
+<a href="#" class="gl_nv_btn">Menu</a>
+<div class="gl_nv_s">
+<div class="hd_ut_s">
+<a href="http://www.ricoh.com/gateway/" target="_blank" class="hd_ut_change">Change Country</a>
+<!--/hd_ut_s--></div>
+
+<div id="gl_nv">
+<form method="get" action="http://jp.search.app.ricoh/ja_ricoh/search.x" id="gHdrSearchForm">
+
+<ul class="gl_nv_lst">
+<li id="gl_nv_lst_01"><a href="/solutions/" class="gl_nv_lst_mn">ソリューション</a></li>
+<li id="gl_nv_lst_02"><a href="/products/" class="gl_nv_lst_mn">商品</a></li>
+<li id="gl_nv_lst_03"><a href="/support/" class="gl_nv_lst_mn">サポート&#12539;ダウンロード</a></li>
+<li id="gl_nv_lst_04"><a href="/event/" class="gl_nv_lst_mn">イベント&#12539;セミナー</a></li>
+<li id="gl_nv_lst_05"><a href="/about/" class="gl_nv_lst_mn">リコーについて</a></li>
+<li id="gl_nv_lst_06" class="gl_nv_src">
+<div class="dsp_normal">
+<p class="gl_nv_src_inp"><label for="MF_form_phrase" class="hide">ここからサイト内検索</label><input type="text" name="q" id="MF_form_phrase" class="gl_nv_src_txt" autocomplete="off" /><input type="submit" class="gl_nv_src_btn" value="検索" /><input type="hidden" name="ie" value="utf8" /></p>
+<!--/dsp_normal--></div>
+<div class="dsp_middle">
+<a href="#" class="gl_nv_lst_mn"><span class="gl_nv_src_mn">検索</span></a>
+<!--/dsp_middle--></div>
+</li>
+</ul>
+
+<div class="drop_down_wrp"></div>
+
+<div class="drop_down">
+
+<div id="drop_down_inner_01" class="inner">
+
+  <div class="tab_sct tabGlobalNavi">
+
+  <div class="tab_dtl act">
+    <div class="clm1 tileSame mb16">
+      <div class="clm tlSame01">
+        <p class="fs20"><a class="ico_end_l right_l" href="/solutions/"><strong>全てのソリューション</strong></a></p>
+      </div>
+    </div>
+
+    <div class="clm1 clm3 tileSame">
+    <div class="clm tlSame01">
+    <p class="mb16"><a class="ico_nml_f right_f" href="/solutions/#sol01"><strong>業種から探す</strong></a></p>
+    <p class="ml16">流通　/ 製造 / ヘルスケア / 教育</p>
+    <p class="mb16 mt32"><a class="ico_nml_f right_f" href="/solutions/#sol02"><strong>経営課題&#12539;業務課題から探す</strong></a></p>
+    <p class="ml16">経営基盤強化 / ワークスタイル変革<br>業務プロセス改革  / 売上拡大</p>
+    </div>
+    <div class="clm tlSame01">
+    <p class="mb16"><a class="ico_nml_f right_f" href="/solutions/#sol03"><strong>サービスカテゴリーから探す</strong></a></p>
+    <p class="ml16">
+	<a class="ico_nml right" href="/solutions/category/mds.html">マネージド・ドキュメント・サービス</a><br>
+	<a class="ico_nml right" href="/solutions/category/pp.html">プロダクションプリンティング</a><br>
+	<a class="ico_nml right" href="/solutions/category/it.html">ITインフラ</a><br>
+	<a class="ico_nml right" href="/solutions/category/app.html">SI・アプリケーション</a><br>
+	<a class="ico_nml right" href="/solutions/category/communication.html">コミュニケーション</a><br>
+	<a class="ico_nml right" href="/solutions/category/business.html">ビジネスプロセス</a><br>
+	<a class="ico_nml right" href="/solutions/category/workplace.html">ワークプレイス</a><br>
+	<a class="ico_nml right" href="/solutions/category/sustainability.html">サステナビリティ・マネジメント</a></p>
+	<p class="mb16 mt32"><a class="ico_nml_f right_f" href="/case/"><strong>お客様導入事例</strong></a></p>
+    </div>
+    <div class="clm tlSame01">
+    <a href="/solution/vc/" class="image_mn cmp_mtc01 mb8 banner_mn">
+    <div class="img"><img src="/cmn_jp_v1/img/gl_header/image-megadrop-solution_01.jpg" alt="リコーのビジュアルコミュニケーション" /><span class="bn_ico right_f"></span></div>
+    <!--/image_mn--></a>
+    <a href="/solutions/category/cloud.html" class="image_mn cmp_mtc01 mb8 mt16 banner_mn">
+    <div class="img"><img src="/cmn_jp_v1/img/gl_header/image-megadrop-solution_02.jpg" alt="リコーワンストップくらうど" /><span class="bn_ico right_f"></span></div>
+    <!--/image_mn--></a>
+    </div>
+
+
+    <!--/clm1--></div>
+  <!--/tab_dtl--></div>
+
+   <!--/tab_sct--></div>
+  <div class="drp_ft clr">
+  <p class="fl_l"><a href="/solutions/" class="ico_nml right">ソリューショントップへ</a></p>
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<div id="drop_down_inner_02" class="inner">
+  <div class="tab_sct tabGlobalNavi">
+
+  <div class="tab_dtl act">
+    <div class="clm1 clm3 tileSame">
+    <div class="clm tlSame01">
+    <ul>
+    <li><a href="/mfp/" class="ico_nml right">複写機/複合機</a></li>
+    <li class="mt16"><a href="/printer/" class="ico_nml right">プリンター</a></li>
+    <li class="mt16"><a href="/mfp-ex/" class="ico_nml right">複合機&#12539;プリンター拡張機能</a></li>
+    <li class="mt16"><a href="/pp/" class="ico_nml right">プロダクションプリンター</a></li>
+    <li class="mt16"><a href="/opp/" class="ico_nml right">デジタル印刷機</a></li>
+    <li class="mt16"><a href="/software/" class="ico_nml right">ソフトウェア</a></li>
+    <li class="mt16"><a href="/led/" class="ico_nml right">LED照明</a></li>
+	<li class="mt16"><a href="/aed/" class="ico_nml right">AED（自動体外式除細動器）</a></li>
+    <li class="mt16"><a href="/fax/" class="ico_nml right">ファクシミリ</a></li>
+	<li class="mt16"><a href="http://industry.ricoh.com/dc/" class="ico_nml right">業務用デジタルカメラ</a></li>
+	<li class="mt16"><a href="/3dp/intro.html" class="ico_nml right">3Dプリンター</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <ul>
+    <li><a href="/ucs/" class="ico_nml right">テレビ会議&#12539;Web会議システム</a></li>
+		<li class="mt16"><a href="/vcom/mis/" class="ico_nml right">多言語通訳サービス</a></li>
+    <li class="mt16"><a href="/projector/" class="ico_nml right">プロジェクター</a></li>
+    <li class="mt16"><a href="/iwb/" class="ico_nml right">インタラクティブ ホワイトボード（電子黒板）</a></li>
+    <li class="mt16"><a href="/signage/" class="ico_nml right">デジタルサイネージ</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/rfid/" class="ico_nml right">RFID</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/agv/" class="ico_nml right">AGV（無人搬送車）</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/alr/" class="ico_nml right">生産工程可視化システム</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/fa_camera_lens/ics/sc-10a/" class="ico_nml right">作業支援カメラシステム</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <p class="mb16"><strong>パーソナル向け商品</strong></p>
+    <ul class="mb40">
+    <li class="mt16"><a href="http://www.ricoh-imaging.co.jp/japan/products/" class="ico_nml newwindow" target="_blank" >デジタルカメラ</a></li>
+    <li class="mt16"><a href="http://www.ricohelemex.co.jp/products/watch/" class="ico_nml newwindow" target="_blank">時計</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/products/" class="ico_nml right_f bgp_0_2"><strong>産業向け商品</strong></a></li>
+    </ul>
+
+    <a href="/pp/cfij/pro_vc/60000/" class="image_mn cmp_mtc01 banner_mn">
+    <div class="img"><img src="/cmn_jp_v1/img/gl_header/image-megadrop-product_01.jpg" alt="RICOH Pro VC60000" /><span class="bn_ico right_f"></span></div>
+    <!--/image_mn--></a>
+    </div>
+    <!--/clm1--></div>
+  <!--/tab_dtl--></div>
+
+  <!--/tab_sct--></div>
+  <div class="drp_ft clr">
+  <p class="fl_l"><a href="/products/" class="ico_nml right">商品トップ（商品一覧）へ</a></p>
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<div id="drop_down_inner_03" class="inner">
+  <div class="dd_main">
+    <div class="clm1 clm3 tileSame">
+    <div class="clm tlSame01">
+    <p class="mb16"><strong>ご使用機器の操作方法確認・お問い合わせ</strong></p>
+    <ul class="mb16">
+    <li><a href="/support/qa/" class="ico_nml right">よくあるご質問 -FAQ-</a></li>
+    <li class="mt16"><a href="/contact/pro_mail.html" class="ico_nml right">メールでのお問い合わせ</a></li>
+    <li class="mt16"><a href="/contact/pro_tel.html" class="ico_nml right">電話でのお問い合わせ</a></li>
+    </ul>
+    <p class="mb16"><strong>保守サービス</strong></p>
+    <ul>
+    <li><a href="/support/repair/" class="ico_nml right">修理のお申し込み・ご相談</a></li>
+    <li class="mt16"><a href="http://itkeeper.ricoh.co.jp/isp/" target="_blank" class="ico_nml newwindow">リコーセンターサービス稼働・メンテナンス状況について</a></li>
+    <li class="mt16"><a href="/support/cloud/" class="ico_nml right">各種クラウドサービス稼働・メンテナンス状況について</a></li>
+    </ul>
+    </div>
+
+    <div class="clm tlSame01">
+    <p class="mb16"><strong>ダウンロード</strong></p>
+    <ul class="mb16">
+    <li><a href="/download/" class="ico_nml right">ソフトウェアダウンロード</a></li>
+    <li class="mt16"><a href="/support/os/" class="ico_nml right">OS別対応状況</a></li>
+    <li class="mt16"><a href="/support/manual/" class="ico_nml right">マニュアルダウンロード</a></li>
+    </ul>
+    <p class="mb16"><strong>製品や消耗品のご購入</strong></p>
+    <ul>
+    <li><a href="/contact/ADDRESS/" class="ico_nml right">購入のご相談</a></li>
+    <li class="mt16"><a href="/support/netbuy/" class="ico_nml right">消耗品のご購入</a></li>
+    <li class="mt16"><a href="/supply/" class="ico_nml right">オフィス機器消耗品のご案内</a></li>
+    <li class="mt16"><a href="/support/usersupport/" class="ico_nml right">お客様登録・変更</a></li>
+    </ul>
+    </div>
+
+    <div class="clm tlSame01">
+    <p class="mb16"><strong>使用済み製品の回収&#12539;リサイクル窓口</strong></p>
+    <ul class="mb16">
+    <li><a href="http://jp.ricoh.com/ecology/recycle/" target="_blank" class="ico_nml newwindow">使用済み製品&#12539;カートリッジ回収について</a></li>
+    </ul>
+
+    <p class="mb16"><strong>ポリシー</strong></p>
+    <ul class="mb16">
+    <li><a href="/support/policy/virtualization.html" class="ico_nml right">仮想化製品対応ポリシー</a></li>
+    </ul>
+
+    <p class="mb16"><strong>商品から探す</strong></p>
+    <ul>
+    <li><a href="/mfp/support/" class="ico_nml right">複写機/複合機</a></li>
+    <li class="mt16"><a href="/printer/support/" class="ico_nml right">レーザープリンター</a></li>
+    <li class="mt16"><a href="/printer/geljet/support/" class="ico_nml right">ジェルジェットプリンター</a></li>
+    <li class="mt16"><a href="/pp/support/" class="ico_nml right">プロダクションプリンター</a></li>
+    <li class="mt16"><a href="http://industry.ricoh.com/dc/" class="ico_nml right">デジタルカメラ</a></li>
+    </ul>
+    </div>
+
+    <!--/clm1--></div>
+  <!--/dd_main--></div>
+  <div class="drp_ft clr">
+  <p class="fl_l"><a href="/support/" class="ico_nml right">サポート&#12539;ダウンロードトップへ</a></p>
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<div id="drop_down_inner_04" class="inner">
+  <div class="dd_main">
+    <div class="clm1 clm3 tileSame">
+    <div class="clm tlSame01">
+    <p class="mb16"><strong>開催地区</strong></p>
+    <ul>
+    <li><a href="/event/?area=all&cat=all" class="ico_nml right">すべて</a></li>
+    <li class="mt16"><a href="/event/?area=hokkaido&cat=all" class="ico_nml right">北海道</a></li>
+    <li class="mt16"><a href="/event/?area=tohoku&cat=all" class="ico_nml right">東北</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <ul>
+    <li class="mt16"><a href="/event/?area=kanto&cat=all" class="ico_nml right">関東</a></li>
+    <li class="mt16"><a href="/event/?area=chubu&cat=all" class="ico_nml right">中部</a></li>
+    <li class="mt16"><a href="/event/?area=kansai&cat=all" class="ico_nml right">関西</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <ul>
+    <li class="mt16"><a href="/event/?area=chugoku-shikoku&cat=all" class="ico_nml right">中国&#12539;四国</a></li>
+    <li class="mt16"><a href="/event/?area=kyushu-okinawa&cat=all" class="ico_nml right">九州&#12539;沖縄</a></li>
+    </ul>
+    </div>
+    <!--/clm1--></div>
+  <!--/dd_main--></div>
+  <div class="drp_ft clr">
+  <p class="fl_l"><a href="/event/" class="ico_nml right">イベント&#12539;セミナートップへ</a></p>
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<div id="drop_down_inner_05" class="inner">
+  <div class="dd_main">
+    <div class="clm1 tileSame mb32">
+      <div class="clm tlSame01">
+        <p>リコーグループの企業サイトは「<a href="http://jp.ricoh.com/" target="_blank">リコーグループ企業&#12539;IRサイト</a>」をご覧ください。</p>
+      </div>
+    </div>
+    <div class="clm1 clm3 tileSame">
+
+    <div class="clm tlSame01">
+    <ul>
+    <li><a href="http://jp.ricoh.com/about/index.html" class="ico_nml newwindow" target="_blank">リコーグループについて</a></li>
+    <li class="mt16"><a href="http://jp.ricoh.com/company/business/" class="ico_nml newwindow" target="_blank">事業概要</a></li>
+    <li class="mt16"><a href="http://jp.ricoh.com/IR/index.html" class="ico_nml newwindow" target="_blank">IR&#12539;財務情報</a></li>
+    <li class="mt16"><a href="/sales/about/map/" class="ico_nml right">国内主要拠点</a></li>
+    <li class="mt16"><a href="http://jp.ricoh.com/company/associate/index.html" class="ico_nml newwindow" target="_blank">関連会社一覧</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <ul>
+    <li><a href="/about/recruit.html" class="ico_nml right">採用</a></li>
+    <li class="mt16"><a href="http://jp.ricoh.com/technology/" class="ico_nml newwindow" target="_blank">技術</a></li>
+    <li class="mt16"><a href="http://jp.ricoh.com/csr-ecology/" class="ico_nml newwindow" target="_blank">サステナビリティ</a></li>
+    </ul>
+    </div>
+    <div class="clm tlSame01">
+    <ul>
+    <li><strong><a href="http://jp.ricoh.com/about/" class="ico_nml newwindow_f bgp_0_2" target="_blank">株式会社リコー</a></strong></li>
+    <li class="mt16"><strong><a href="/sales/about/" class="ico_nml right_f bgp_0_2">リコージャパン株式会社</a></strong></li>
+    </ul>
+    </div>
+    <!--/clm1--></div>
+  <!--/dd_main--></div>
+  <div class="drp_ft clr">
+  <p class="fl_l"><a href="/about/" class="ico_nml right">リコーについてトップへ</a></p>
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<div id="drop_down_inner_06" class="inner">
+  <div class="dd_main">
+    <div class="gl_nv_src_inp">
+    <label for="gl_nv_src_func_s" class="hide">ここからサイト内検索</label>
+    <p class="gl_nv_src_txt"><input type="text" name="" id="gl_nv_src_func_s" /></p>
+    <p class="gl_nv_src_btn"><input type="submit" value="Search" class="button act01" /></p>
+    </div>
+  <!--/dd_main--></div>
+  <div class="drp_ft clr">
+  <p class="fl_r"><a href="#" class="ico_end close">Close</a></p>
+  <!--/drp_ft--></div>
+<!--/inner--></div>
+
+<!--/drop_down--></div>
+
+</form>
+<!--/gl_nv--></div>
+<!--/gl_nv_s--></div>
+<!-- ///////// /ssi header//////////// -->
+    <!--/gl_header-->
+  </div>
+  <div id="contents"> <span class="hide">Main content</span>
+    <div class="main_vi_sct main_vi_hm">
+      <div class="main_vi">
+      <ul id="slider">
+      	 <li>
+          <div id="NG_0000000309" style="margin: 0; padding: 0; display: none;">
+            <div class="main_vi_img"><a target="_self" href="/ucs/?sscl=homePanel2"><img width="100%" alt="" src="/img/index_vi_02_ucs1.jpg"></a></div>
+            <div class="main_vi_device">
+              <p class="main_vi_dvc_lead">簡単操作＆低コストで導入できるポータブル型のテレビ会議・Web会議システム</p>
+              <p class="main_vi_dvc_txt">RICOH Unified Communication System</p>
+              <p class="main_vi_dvc_btn"><a href="/ucs/?sscl=homePanel2">詳しくはこちら</a></p>
+            </div>
+          </div>
+          <div id="0000000309" style="margin: 0; padding: 0;" >
+            <script>
+						if (location.protocol == "http:" || location.protocol == "https:") {
+    						var _target = location.protocol + "//tracer21.a-cast.jp/ad/www.ricoh.co.jp//0000000309;size=1x1;";
+						    var _alt = "";
+    						var _alt_link = "";
+    						var _alt_div = "NG_0000000309";
+    						var _aCast_0000000309 = new _ACast(_target, _alt, _alt_link, 1, 1, "0000000309", _alt_div);
+    						_aCast_0000000309.request();
+						}
+					</script>
+          </div>
+        </li>
+        <li>
+          <div id="NG_0000000330" style="margin: 0; padding: 0; display: none;">
+            <div class="main_vi_img"><a target="_self" href="/printer/spc/841_840/?sscl=homePanel1"><img width="100%" alt="" src="/img/index_vi_01_spc841.jpg"></a></div>
+            <div class="main_vi_device">
+              <p class="main_vi_dvc_lead">A3 カラープリンター「RICOH SP C841/C841M/C841a1/C841M a1/C840/C840M/C840a1/C840M a1」</p>
+              <p class="main_vi_dvc_txt">ビジネスを支える、進化のかたち。</p>
+              <p class="main_vi_dvc_btn"><a href="/printer/spc/841_840/?sscl=homePanel1">詳しくはこちら</a></p>
+            </div>
+          </div>
+          <div id="0000000330" style="margin: 0; padding: 0;" >
+            <script>
+						if (location.protocol == "http:" || location.protocol == "https:") {
+    						var _target = location.protocol + "//tracer21.a-cast.jp/ad/www.ricoh.co.jp//0000000330;size=1x1;";
+						    var _alt = "";
+    						var _alt_link = "";
+    						var _alt_div = "NG_0000000330";
+    						var _aCast_0000000330 = new _ACast(_target, _alt, _alt_link, 1, 1, "0000000330", _alt_div);
+    						_aCast_0000000330.request();
+						}
+					</script>
+          </div>
+        </li>
+
+        <li>
+          <div class="main_vi_img"><a href="/solutions/sousei/?sscl=homePanel3">
+            <img src="img/index_vi_top-ricoh_sousei.jpg" width="100%" alt="地域の力×リコー" /></a>
+          </div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">地域の力×リコー</p>
+            <p class="main_vi_dvc_txt">全国に拠点を持つ強みを活かし、地域の皆様と共に。それが、リコーの目指す地方創生です。</p>
+            <p class="main_vi_dvc_btn"><a href="/solutions/sousei/?sscl=homePanel3">詳しくはこちら</a></p>
+          </div>
+         </li>
+      <!-- <li>
+          <div class="main_vi_img"><a href="/solutions/event_solution/?sscl=homePanel3">
+            <img src="img/index_vi_03_mice.jpg" width="100%" alt="MICE/イベント向けソリューション" /></a>
+          </div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">MICE/イベント向けソリューション</p>
+            <p class="main_vi_dvc_txt">リコーのソリューションでスマートかつユニークなイベントを実現します</p>
+            <p class="main_vi_dvc_btn"><a href="/solutions/event_solution/?sscl=homePanel3">詳しくはこちら</a></p>
+          </div>
+          </li> -->
+        <!-- <li>
+          <div class="main_vi_img"><a href="/solutions/smart_energy/?sscl=homePanel3">
+            <img src="img/index_vi_03_ricoh_smart_energy.jpg" width="100%" alt="スマート＆エネルギー" /></a>
+          </div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">スマート＆エネルギー</p>
+            <p class="main_vi_dvc_txt">人々の生活の質の向上と持続可能な社会づくりに貢献します</p>
+            <p class="main_vi_dvc_btn"><a href="/solutions/smart_energy/?sscl=homePanel3">詳しくはこちら</a></p>
+          </div>
+          </li>-->
+        <!--<li>
+          <div class="main_vi_img"><a href="http://jp.ricoh.com/about/ricoh_ws/?sscl=homePanel3" target="_blank">
+            <img src="img/index_vi_top-ricoh_ws.jpg" width="100%" alt="働き方が変わると、世界が変わる。" /></a>
+          </div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">働き方が変わると、世界が変わる。</p>
+            <p class="main_vi_dvc_txt"></p>
+            <p class="main_vi_dvc_btn"><a href="http://jp.ricoh.com/about/ricoh_ws/?sscl=homePanel3">詳しくはこちら</a></p>
+          </div>
+          </li>-->
+        <li>
+          <div class="main_vi_img"><a target="_blank" href="http://www.netricoh.com/?sscl=homePanel4"><img width="100%" alt="" src="/img/index_vi_04_netricoh_2016-10-03.jpg"></a></div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">NetRICOH</p>
+            <p class="main_vi_dvc_txt">がんばるオフィスのお役立ち！ 総合インターネットサービス</p>
+            <p class="main_vi_dvc_btn"><a href="http://www.netricoh.com/?sscl=homePanel4" target="_blank">詳しくはこちら</a></p>
+          </div>
+        </li>
+        <!-- li>
+          <div class="main_vi_img"><a target="_blank" href="http://www.netricoh.com/?sscl=homePanel4"><img width="100%" alt="" src="/img/index_vi_04_netricoh_vol31.jpg"></a></div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">NetRICOH</p>
+            <p class="main_vi_dvc_txt">NetRICOH Vol.31カタログ発刊！</p>
+            <p class="main_vi_dvc_btn"><a href="http://www.netricoh.com/?sscl=homePanel4" target="_blank">詳しくはこちら</a></p>
+          </div>
+        </li -->
+        <li>
+          <div class="main_vi_img"><a href="/sales/about/cs/jdpower/?sscl=homePanel5"><img width="100%" alt="" src="/img/index_vi_05_jdp2016.jpg"></a></div>
+          <div class="main_vi_device">
+            <p class="main_vi_dvc_lead">リコーはおかげさまでお客様満足度No.1</p>
+            <p class="main_vi_dvc_txt">J.D.パワー 2016年<br>カラーレーザープリンター 顧客満足度 No.1<br>ITソリューションプロバイダー 顧客満足度 2年連続 No.1</p>
+            <p class="main_vi_dvc_btn"><a href="/sales/about/cs/jdpower/?sscl=homePanel5">詳しくはこちら</a></p>
+          </div>
+        </li>
+        </ul>
+        <!--/main_vi-->
+      </div>
+      <!--/main_vi_img-->
+    </div>
+    <div class="sct_bg01">
+      <div class="cnt_max">
+        <!-- /緊急発信エリア -->
+        <!-- 緊急発信 -->
+<!-- /緊急発信 -->
+        <!-- /緊急発信エリア -->
+        <div class="clm1 top_news_box">
+          <div class="clm">
+            <h2 class="hd02">新着情報</h2>
+            <div class="jp_news_sct jp_news_top mb0">
+              <a href="http://jp.ricoh.com/info/2017/0315_1.html" class="jp_news_lst">
+  <dl>
+    <dt><span class="day">2017年3月15日</span><span class="lb_ico cate01">お知らせ</span></dt>
+    <dd>
+      <p>ジャパン・ドローン 2017　出展のお知らせ(リコー)</p>
+    </dd>
+  </dl>
+</a>
+<a href="http://jp.ricoh.com/release/2017/0315_1.html" class="jp_news_lst">
+  <dl>
+    <dt><span class="day">2017年3月15日</span><span class="lb_ico cate01">リリース</span></dt>
+    <dd>
+      <p>障害物を自動で回避できる小型無人航空機（ドローン）の自動飛行システムを開発(リコー)</p>
+    </dd>
+  </dl>
+</a>
+<a href="http://jp.ricoh.com/release/2017/0314_1.html" class="jp_news_lst">
+  <dl>
+    <dt><span class="day">2017年3月14日</span><span class="lb_ico cate01">リリース</span></dt>
+    <dd>
+      <p>デジタルカメラによる三次元測量「RICOH G800ジオショット3Dキット シリーズ」を発売(リコー)</p>
+    </dd>
+  </dl>
+</a>
+<a href="http://jp.ricoh.com/release/2017/0307_1.html" class="jp_news_lst">
+  <dl>
+    <dt><span class="day">2017年3月7日</span><span class="lb_ico cate01">リリース</span></dt>
+    <dd>
+      <p>IoT/ウェアラブル機器向け電源IC「RP118シリーズ」を発売(リコー電子デバイス)</p>
+    </dd>
+  </dl>
+</a>
+<a href="http://jp.ricoh.com/info/2017/0228_1.html" class="jp_news_lst">
+  <dl>
+    <dt><span class="day">2017年2月28日</span><span class="lb_ico cate01">お知らせ</span></dt>
+    <dd>
+      <p>「健康経営優良法人2017」大規模法人部門（ホワイト500）に認定(リコー)</p>
+    </dd>
+  </dl>
+</a>
+
+            </div>
+          </div>
+        <!--/clm1--></div>
+
+<!-- 160901 RJ CC部 挿入 -->
+        <div class="clm1">
+          <div class="clm">
+		<p class="mb0"><strong>平成28年熊本地震で被災された皆様に謹んでお見舞い申し上げますと共に、一日も早い復旧を心よりお祈り申し上げます。</strong></p>
+		<div class="news_sct mt0 mb16">
+		  <a href="/notice/2016/kumamoto.html" class="news_lst">
+		  <dl>
+		    <dd>
+			<p>平成28年熊本地震に関するリコーグループの対応について</p>
+		    </dd>
+		  </dl>
+		  </a>
+		<!--/news_sct--></div>
+          </div>
+        <!--/clm1--></div>
+<!-- /160901 RJ CC部 挿入 -->
+
+        <!-- 重要なお知らせ -->
+        <div class="important_news">
+	<dl>
+		<dt><span class="lb_ico cate01">重要なお知らせ</span></dt>
+		<dd><span class="txt"><a href="http://jp.ricoh.com/info/notice/2017/0209_1.html">リコー製A4カラーレーザー複合機「RICOH SP C251SF」と「RICOH SP C250SFL」をご使用のお客様へ（2017年2月9日）</a></span></dd>
+	</dl>
+	<dl>
+		<dt><span class="lb_ico cate01">重要なお知らせ</span></dt>
+		<dd><span class="txt"><a href="http://www.ricoh.co.jp/sales/notice/161226_1.html">平成28年新潟県糸魚川市における大規模火災に係る修理対応について（2016年12月26日）</a></span></dd>
+	</dl>
+	<dl>
+		<dt><span class="lb_ico cate01">重要なお知らせ</span></dt>
+		<dd><span class="txt"><a href="http://www.ricoh.co.jp/sales/notice/161024_1.html">平成28年鳥取県中部地震に係る修理対応について（2016年10月24日）</a></span></dd>
+	</dl>
+</div>
+
+        <!-- /重要なお知らせ -->
+        <ul class="clm1 clm4 rsp_break_clm1 tileSame">
+          <li class="clm tlSame01"><a href="news.html" class="ico_nml right">新着情報一覧</a></li>
+          <li class="clm tlSame01"><a href="http://jp.ricoh.com/release/" class="ico_nml right newwindow" target="_blank">ニュースリリース一覧</a></li>
+          <li class="clm tlSame01"><a href="http://jp.ricoh.com/info/" class="ico_nml right newwindow" target="_blank">お知らせ一覧</a></li>
+          <li class="clm tlSame01"><a href="http://jp.ricoh.com/info/notice/" class="ico_nml kokeshi newwindow" target="_blank">重要なお知らせ一覧</a></li>
+          <!--/clm1-->
+        </ul>
+        <!--/cnt_max-->
+      </div>
+      <!--/sct_bg-->
+    </div>
+    <div class="sct_bg01">
+      <div class="cnt_max">
+        <div class="clm1">
+          <div class="clm">
+            <h2 class="hd02">キャンペーン・特集</h2>
+          </div>
+          <!--/clm1-->
+        </div>
+        <div class="clm1 clm3 rsp_break_clm1 tileSame">
+<div class="clm">
+ <a href="/solutions/mynumber/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="img/img_sidebox_mynumber.jpg" alt="マイナンバー制度準備/支援ソリューション" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">マイナンバー制度準備/支援ソリューション</p>
+   <p class="txt">いよいよ始まるマイナンバー制度への準備をご支援いたします</p>
+  </div>
+ </a>
+</div>
+<!-- div class="clm">
+ <a href="/solutions/sousei/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="/img/img_sidebox_sousei.jpg" alt="地域の力 × リコー" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">地域の力 × リコー</p>
+   <p class="txt">全国に拠点を持つ強みを活かし、地域の皆様と共に。 それが、リコーの目指す地方創生です。</p>
+  </div>
+ </a>
+</div -->
+<div class="clm">
+ <a href="/solutions/smart_energy/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="/img/img_sidebox_smart_energy.jpg" alt="スマート＆エネルギー" /></div>
+  <div class="dtl tlSame01 ico_nml">
+   <p class="ttl">スマート＆エネルギー</p>
+   <p class="txt">人々の生活の質の向上と持続可能な社会づくりに貢献します。</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="/solution/surface/campaign/" class="image_mn cmp_mtc01" target="_blank">
+  <div class="img"><img src="/img/img_sidebox_surface.jpg" alt="Microsoft Surface" /></div>
+  <div class="dtl tlSame01 ico_nml newwindow">
+   <p class="ttl">Surface ビジネス活用の勧め</p>
+   <p class="txt">Surface ビジネス活用徹底解説ブックレット無料プレゼント実施中！</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="nss/cloud/mvb/trial.html" class="image_mn cmp_mtc01">
+  <div class="img"><img src="img/img_ricoh-cloud_virus.jpg" alt="企業向けクラウド型ウイルス対策支援サービス" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">企業向けクラウド型ウイルス対策支援サービス</p>
+   <p class="txt">クラウドサービス for MVB無料トライアルキャンペーン</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="itkeeper/backup/trial.html" class="image_mn cmp_mtc01">
+  <div class="img"><img src="img/img_sidebox_cloud-bkup_trial.jpg" alt="クラウド型データバックアップサービス" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">クラウド型データバックアップサービス</p>
+   <p class="txt">クラウドサービス for 簡単バックアップ無料トライアルキャンペーン</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="/3dp/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="img/img_3dp.jpg" alt="RICOH 3D PRINT ONLINE" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">RICOH 3D PRINT ONLINE</p>
+   <p class="txt">リコーの3Dプリント・ソリューションサイト</p>
+  </div>
+ </a>
+</div>
+<!--
+<div class="clm">
+ <a href="/solutions/it-hojo/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="/solutions/img/pickup_it-hojo.jpg" alt="平成28年度補正 サービス等生産性向上IT導入支援事業" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">IT導入補助金制度のご案内</p>
+   <p class="txt">中小企業の経営力向上をサポートします</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="solution/kinjiro_labor/column.html" class="image_mn cmp_mtc01">
+  <div class="img"><img src="img/img_sidebox_kinjiro_labor.jpg" alt="労務環境改善のためのクラウドサービス" /></div>
+  <div class="dtl tlSame01">
+   <p class="ttl">労務環境改善のためのクラウドサービス</p>
+   <p class="txt">ストレスチェック義務化に向けて企業が取り組むべきこと</p>
+  </div>
+ </a>
+</div>
+<div class="clm">
+ <a href="/solutions/event_solution/" class="image_mn cmp_mtc01">
+  <div class="img"><img src="/img/img_sidebox_mice.jpg" alt="MICE向けイベントソリューション"></div>
+  <div class="dtl tlSame01 ico_nml">
+   <p class="ttl">MICE向けイベントソリューション</p>
+   <p class="txt">リコーのソリューションでスマートかつユニークなイベントを実現します。</p>
+  </div>
+ </a>
+</div>
+-->
+        <!--/clm1--></div>
+      <!--/cnt_max--></div>
+    <!--/sct_bg--></div>
+    <div class="sct_bg01 sns_media_box">
+      <div class="cnt_max">
+        <div class="clm1 clm2 rsp_break_clm1 tileSame">
+          <div class="clm">
+            <h3 class="hd03 ico_fb"><a href="https://www.facebook.com/ricoh.jp" target="_blank">リコー公式Facebookページ</a>
+              <div class="fb-like" data-href="" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            </h3>
+            <div class="jp_facebook_box">
+              <div class="fb-page" data-href="https://www.facebook.com/ricoh.jp" data-width="500" data-height="666" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                <div class="fb-xfbml-parse-ignore">
+                  <blockquote cite="https://www.facebook.com/ricoh.jp"><a href="https://www.facebook.com/ricoh.jp">リコー公式Facebookページ</a></blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="clm">
+            <h3 class="hd03 ico_youtube"><a href="https://www.youtube.com/channel/UCSEXAGqJxaMAC-FYIupeQEA" target="_blank">リコー公式チャンネル</a></h3>
+            <div class="jp_youtube_box">
+              <ul id="results">
+              </ul>
+            </div>
+          </div>
+          <!--/clm1-->
+        </div>
+        <!--/cnt_max-->
+      </div>
+      <!--/sct_bg-->
+    </div>
+    <div id="id_EmphasizedLink"></div>
+    <div id="id_ContentsAddthis">
+      <div class="sct_bg01">
+        <div class="cnt_max">
+          <div class="clm1">
+            <div class="clm">
+              <div class="share_sct">
+                <p class="ttl">Share</p>
+                <div class="dtl">
+                  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                  <div class="addthis_sharing_toolbox"></div>
+                  <!--/dtl-->
+                </div>
+                <!--/share_sct-->
+              </div>
+            </div>
+            <!--/clm1-->
+          </div>
+          <!--/cnt_max-->
+        </div>
+        <!--/sct_bg-->
+      </div>
+    </div>
+    <!--/contents-->
+  </div>
+  <div id="gl_footer">
+    <div class="ft_rlt">
+      <div class="ft_rlt_inr">
+        <div class="clm1 clm3 rsp_break_clm1 tileSame">
+          <div class="clm"> <a href="http://www.netricoh.com/" target="_blank" class="thumb_mn cmp_mtc01 tlSame01 newwindow">
+            <div class="inner dt_02">
+              <div class="dtc_img liquid"><img src="img/btn_netricoh.jpg" alt="" /></div>
+              <div class="dtc_txt">
+                <p class="ttl">リコーのオンラインショッピングサイト「NetRICOH」</p>
+                <!-- <p class="txt fs14"></p> -->
+              </div>
+            </div>
+            <!--/thumb_mn-->
+            </a> </div>
+          <div class="clm"> <a href="http://www.ricoh.com/ja/security/products/mfp/countermeasure/setting.html" target="_blank" class="thumb_mn cmp_mtc01 tlSame01 newwindow">
+            <div class="inner dt_02">
+              <div class="dtc_img liquid"><img src="img/btn_mfp_user.jpg" alt="" /></div>
+              <div class="dtc_txt">
+                <p class="ttl">リコー製複合機をお使いのお客様へ</p>
+                <!-- <p class="txt fs14"></p> -->
+              </div>
+            </div>
+            <!--/thumb_mn-->
+            </a> </div>
+          <div class="clm"> <a href="https://esrv.netricoh.com/esrv/confirmLogin.html" target="_blank" class="thumb_mn cmp_mtc01 tlSame01 newwindow">
+            <div class="inner dt_02">
+              <div class="dtc_img liquid"><img src="img/btn_confirmLogin.jpg" alt="" /></div>
+              <div class="dtc_txt">
+                <p class="ttl">Webから修理依頼する</p>
+                <!-- <p class="txt fs14"></p> -->
+              </div>
+            </div>
+            <!--/thumb_mn-->
+            </a> </div>
+          <!--/clm1-->
+        </div>
+        <!--/ft_rlt_inr-->
+      </div>
+      <!--/ft_rlt-->
+    </div>
+    <div id="id_FooterUtility" class="ft_ut">
+      <div class="ft_ut_inr"> <span class="hide">Utility links</span>
+        <ul class="ft_ut_lst fl_n">
+          <li><a href="/privacy/">個人情報保護について</a></li>
+          <li><a href="http://jp.ricoh.com/terms_of_use/">ご利用条件</a></li>
+          <li><a href="http://jp.ricoh.com/terms_of_use/trademark.html">商標について</a></li>
+          <li><a href="/sitemap/">サイトマップ</a></li>
+          <li><a href="/contact/">お問い合わせ</a></li>
+          <li><a href="http://www2.notes.ricoh.co.jp/bcp/MB.nsf" target="_blank">従業員向け災害時メッセージボード</a></li>
+        </ul>
+        <p class="ft_pg_top smoothScroll dsp_n rsp_dsp_b"><a href="#wrapper">ページトップへ</a></p>
+        <!--/ft_ut_inr-->
+      </div>
+      <!--/ft_ut-->
+    </div>
+    <div id="id_FooterConnect" class="ft_cnct">
+      <p class="ft_cnct_ttl">ソーシャルメディアアカウント</p>
+      <p class="ft_pg_top smoothScroll rsp_dsp_n"><a href="#wrapper">ページトップへ</a></p>
+      <ul class="ft_cnct_lst">
+        <li><a href="https://www.facebook.com/ricoh.jp" target="_blank"><img src="/cmn_v1/img/gl_footer/connect_facebook.png" width="24" alt="Facebook (Open link in new window)" /></a></li>
+        <li><a href="https://www.youtube.com/user/RicohTube" target="_blank"><img src="/cmn_v1/img/gl_footer/connect_youtube.png" width="59" alt="YouTube (Open link in new window)" /></a></li>
+        <li class="ft_cnct_lst_more"><a href="http://jp.ricoh.com/socialmedia/">一覧へ</a></li>
+      </ul>
+      <!--/ft_cnct-->
+    </div>
+    <p id="id_FooterCopy" class="ft_copy">(C) Ricoh Co., Ltd. / RICOH JAPAN Corp.</p>
+    <!--/gl_footer-->
+  </div>
+  <!--/wrapper-->
+</div>
+<div id="scriptarea_cojp" class="hide">
+  <!-- //////////ssi addthis_js//////////// -->
+  <div id="id_BottomAddthis">
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54d2d5683e95e3f2" async="async"></script>
+  </div>
+<!-- ///////// /ssi addthis_js//////////// -->
+  <!-- //////////ssi scriptarea//////////// -->
+<!--MARS FINDER-->
+<script type="text/javascript" charset="UTF-8" src="//www.ricoh.co.jp/cmn_jp_v1/js/mf2/sug.js#sv=//ricoh.marsfinder.jp/mf2/ricoh__ja_ricoh__ja_ricoh"></script>
+<script type="text/javascript" src="//i.marsflag.com/mf2file/site/ext/gui/gui.js#cid=ricoh"></script>
+<!-- End MARS FINDER -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MRPXQ2"
+height="0" width="0"
+style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-MRPXQ2');</script>
+<!-- End Google Tag Manager -->
+<!-- ///////// /ssi scriptarea//////////// -->
+  <!--scriptarea_cojp-->
+  <!--/scriptarea_cojp-->
+</div>
+<div id="id_BottomAddthis">
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54d2d5683e95e3f2" async></script>
+</div>
+<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery.xdomainajax.js"></script>-->
+<script type="text/javascript" src="js/fs_sns_fb.js"></script>
+<script src="js/fs_youtubelist.js"></script>
+<script src="https://apis.google.com/js/client.js?onload=load"></script>
+<!-- <script src="cmn_jp_v1/js/xml_load.js"></script>
+<script>
+$(window).load(function(){
+  xmlBnrCreate("xml/data.xml");
+});
+</script> -->
+</body>
+</html>

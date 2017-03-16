@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<list>
+  <company>
+    <address>500 Oracle Parkway,
+             Redwood Shores, CA 94065
+    </address>
+  </company>
+  <employee>
+    <lastname>King</lastname>
+    <address>3290 W Big Beaver
+             Troy, MI 48084
+    </address>
+  </employee>
+</list>
